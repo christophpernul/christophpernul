@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**christophpernul/christophpernul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Christoph Pernul, studied Theoretical physics and currently work as a Data Science Staff Engineer at One Data.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_tbd_
+
+Currently exploring AI agents and autonomous systems in my personal projects.
+
+## Technical Focus
+
+**Primary 🔭** Python, Machine Learning, Data Engineering
+
+**Currently Learning 🌱** AI Agents
+
+## Featured Projects
+
+### [Project Name 1](link-to-repo)
+Brief description of what this project does and the key technologies used. Highlight the problem it solves or the interesting technical challenge.
+
+### [Project Name 2](link-to-repo)
+Brief description of what this project does and the key technologies used. Mention any notable outcomes or learnings.
+
+### [Project Name 3](link-to-repo)
+Brief description of what this project does and the key technologies used. Include what makes this project particularly interesting or valuable.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/christoph-pernul-400920138/) • [Email](mailto:cpernul@gmail.com)
+
+---
+
